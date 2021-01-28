@@ -1,0 +1,17 @@
+form.container {
+
+    color: black !important;
+    background-color: rgba(248, 248, 248, 0.4);
+    padding-bottom: 1%;
+    
+    
+}
+
+div.one {
+    background:url(https://images.hdqwalls.com/download/anime-girl-walking-on-dream-bridge-4k-1d-1920x1080.jpg) fixed !important;
+    background-size: cover !important;
+}
+.one {
+    padding-bottom:2.5%;
+    padding-top: 8%;
+}

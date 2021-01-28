@@ -1,0 +1,12 @@
+#caltoaction .view {
+    min-height: 100vh !important;
+    height: unset !important;
+  }
+ 
+  h1 {
+      color: rgb(12, 11, 11);
+  }
+  h5 {
+      color: rgb(2, 1, 1);
+      font-size: medium;
+  }
